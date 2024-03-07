@@ -1,0 +1,6 @@
+{
+  "files.encoding": "utf8", // 編集時の文字コード
+  "files.eol": "\n", // 編集時の改行コード
+  "editor.formatOnSave": true, // ファイル保存時の自動コードフォーマット
+  "editor.defaultFormatter": "esbenp.prettier-vscode" // コードフォーマッター
+}
